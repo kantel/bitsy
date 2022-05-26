@@ -1,2 +1,3 @@
-# bitsy
-Itsy-Bitsy.Tweenie-Weenie
+# Itsy-Bitsy, Tweenie-Weenie
+
+Meine Experimente mit dieser minimalistischen Game Engine.
